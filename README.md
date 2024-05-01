@@ -1,4 +1,4 @@
-👋 Olá, eu sou @Wellantunes
+-👋 Olá, eu sou @Wellantunes
 - 👀 Estou interessado em Novos Desafios.
 - 🌱 Atualmente estou aprendendo Framework React
 - 📫 Como me contatar => https://www.linkedin.com/in/wellington-antunes-7a1417302/
