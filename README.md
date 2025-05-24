@@ -3,7 +3,7 @@
 ###### Sobre o Wellington
 Tenho 22 anos, estudo Análise de Dados e estou em busca de uma transição de carreira para a área de dados.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellantunes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellantunes&show_icons=true&blueberry )](https://github.com/anuraghazra/github-readme-stats)
 
 
 
