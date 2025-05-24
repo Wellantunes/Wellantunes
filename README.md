@@ -8,4 +8,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wellantunes&repo=Projeto_Restaurante.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellantunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Projeto_Restaurante
