@@ -1,7 +1,13 @@
 ### Olá 
 
 ###### Sobre o Wellington
-Tenho 22 anos, estudo Análise de Dados e estou em busca de uma transição de carreira para a área de dados.
+Olá! Sou Wellington Antunes, tenho 22 anos e sou estudante de Análise de Dados pela EBAC (Escola Britânica de Artes Criativas e Tecnologia).
+
+Tenho desenvolvido competências técnicas em Excel avançado, Python, Power BI, SQL e outras ferramentas voltadas para análise, modelagem e visualização de dados.
+
+Estou em constante evolução, buscando transformar dados em informações valiosas e apoiar decisões baseadas em evidências.
+
+Gosto de aprender, encarar desafios e contribuir com soluções que realmente fazem a diferença. Se você busca um perfil analítico, curioso e comprometido, estou pronto para agregar à sua equipe ou projeto.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellantunes&show_icons=true&blueberry )](https://github.com/anuraghazra/github-readme-stats)
 
