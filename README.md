@@ -9,6 +9,7 @@ Estou em constante evolução, buscando transformar dados em informações valio
 
 Gosto de aprender, encarar desafios e contribuir com soluções que realmente fazem a diferença. Se você busca um perfil analítico, curioso e comprometido, estou pronto para agregar à sua equipe ou projeto.
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellantunes&show_icons=true&blueberry )](https://github.com/anuraghazra/github-readme-stats)
 
 
