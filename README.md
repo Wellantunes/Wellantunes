@@ -3,8 +3,8 @@
 ###### Sobre o Wellington
 Olá! Sou Wellington Antunes, tenho 22 anos e estudo Análise de Dados pela EBAC. Tenho conhecimento em Excel avançado, Python, Power BI, SQL e outras ferramentas para análise, modelagem e visualização de dados. Estou sempre buscando evoluir, aprender com os desafios e transformar dados em informações valiosas para apoiar decisões estratégicas. Sou analítico, curioso e comprometido — pronto para contribuir com projetos e equipes que valorizam soluções baseadas em evidências.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?Wellantunes=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?Wellantunes=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Wellington's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Wellantunes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?Wellantunes=Wellantunes&repo=Projeto_Restaurante&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellantunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
