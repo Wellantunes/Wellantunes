@@ -1,10 +1,7 @@
 ### Olá 
 
 ###### Sobre o Wellington
-Olá! Sou Wellington Antunes, tenho 22 anos e sou estudante de Análise de Dados pela EBAC (Escola Britânica de Artes Criativas e Tecnologia).
-Tenho desenvolvido competências técnicas em Excel avançado, Python, Power BI, SQL e outras ferramentas voltadas para análise, modelagem e visualização de dados.
-Estou em constante evolução, buscando transformar dados em informações valiosas e apoiar decisões baseadas em evidências.
-Gosto de aprender, encarar desafios e contribuir com soluções que realmente fazem a diferença. Se você busca um perfil analítico, curioso e comprometido, estou pronto para agregar à sua equipe ou projeto.
+Olá! Sou Wellington Antunes, tenho 22 anos e estudo Análise de Dados pela EBAC. Tenho conhecimento em Excel avançado, Python, Power BI, SQL e outras ferramentas para análise, modelagem e visualização de dados. Estou sempre buscando evoluir, aprender com os desafios e transformar dados em informações valiosas para apoiar decisões estratégicas. Sou analítico, curioso e comprometido — pronto para contribuir com projetos e equipes que valorizam soluções baseadas em evidências.
 
 #
 
