@@ -6,11 +6,13 @@ Tenho desenvolvido competências técnicas em Excel avançado, Python, Power BI,
 Estou em constante evolução, buscando transformar dados em informações valiosas e apoiar decisões baseadas em evidências.
 Gosto de aprender, encarar desafios e contribuir com soluções que realmente fazem a diferença. Se você busca um perfil analítico, curioso e comprometido, estou pronto para agregar à sua equipe ou projeto.
 
+#
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellantunes&show_icons=true&blueberry )](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wellantunes&repo=Projeto_Restaurante&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellantunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+#
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -21,6 +23,8 @@ Gosto de aprender, encarar desafios e contribuir com soluções que realmente fa
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+#
 
 <div style="display: inline_block"><br>
 
