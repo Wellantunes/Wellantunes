@@ -5,7 +5,8 @@ Olá! Sou Wellington Antunes, tenho 22 anos e estudo Análise de Dados pela EBAC
 
 [![Wellington's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Wellantunes&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wellantunes&repo=Projeto_Restaurante&theme=dark)](https://github.com/Wellantunes/Projeto_Restaurante)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellantunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellantunes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div> 
  
