@@ -19,12 +19,12 @@ Sou Wellington Antunes, tenho 22 anos e estudo Análise de Dados pela EBAC. Tenh
 </div>
 <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="900" />
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png">
-  <img align="center" alt="Power BI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
+  <img align="center" alt="Rafa-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Excel" height="50" width="70" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png">
+  <img align="center" alt="Power BI" height="50" width="70" src="https://img.icons8.com/color/48/000000/power-bi.png">
 </div>
 
 
