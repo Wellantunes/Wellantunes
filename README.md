@@ -15,8 +15,9 @@ Sou Wellington Antunes, tenho 22 anos e estudo Análise de Dados pela EBAC. Tenh
   
 </div>
 
-[<hr style="border: none; border-top: 3px solid #3498db; margin: 20px 0;">
-](https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif)
+
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="900" />
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,8 +28,9 @@ Sou Wellington Antunes, tenho 22 anos e estudo Análise de Dados pela EBAC. Tenh
   <img align="center" alt="Power BI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
 </div>
 
-[<hr style="border: none; border-top: 3px solid #3498db; margin: 20px 0;">
-](https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif)
+
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="900" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
