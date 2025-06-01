@@ -23,8 +23,8 @@ Sou Wellington Antunes, tenho 22 anos e estudo Análise de Dados pela EBAC. Tenh
   <img align="center" alt="Rafa-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Excel" height="50" width="70" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png">
-  <img align="center" alt="Power BI" height="50" width="70" src="https://img.icons8.com/color/48/000000/power-bi.png">
+  <img align="center" alt="Excel" height="60" width="60" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png">
+  <img align="center" alt="Power BI" height="60" width="60" src="https://img.icons8.com/color/48/000000/power-bi.png">
 </div>
 
 
