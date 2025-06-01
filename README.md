@@ -30,8 +30,6 @@ Sou Wellington Antunes, tenho 22 anos e estudo Análise de Dados pela EBAC. Tenh
 <hr style="border: none; border-top: 3px solid #3498db; margin: 20px 0;">
 
 
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
