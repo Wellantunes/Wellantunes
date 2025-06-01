@@ -3,8 +3,11 @@
 ###### Sobre o mim
 Sou Wellington Antunes, tenho 22 anos e estudo Análise de Dados pela EBAC. Tenho conhecimento em Excel avançado, Python, Power BI, SQL e outras ferramentas para análise, modelagem e visualização de dados. Estou sempre buscando evoluir, aprender com os desafios e transformar dados em informações valiosas para apoiar decisões estratégicas. Sou analítico, curioso e comprometido — pronto para contribuir com projetos e equipes que valorizam soluções baseadas em evidências.
 
+<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="900" />
+
 [![Wellington's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellantunes&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellantunes&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <div> 
@@ -14,11 +17,7 @@ Sou Wellington Antunes, tenho 22 anos e estudo Análise de Dados pela EBAC. Tenh
   <a href="https://www.linkedin.com/in/wellington-antuness/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-
 <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="900" />
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,7 +28,7 @@ Sou Wellington Antunes, tenho 22 anos e estudo Análise de Dados pela EBAC. Tenh
 </div>
 
 
-<img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" width="900" />
+
 
 
 <picture>
